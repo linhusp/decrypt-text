@@ -1,2 +1,2 @@
 # decrypt-text
-Decrypt texts by frequency algorithm using Yython
+Decrypt texts by frequency algorithm using Python
